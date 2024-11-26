@@ -8,3 +8,6 @@ def Sum(array):
     return total
 
 print(Sum([2,4,3]))
+
+#time complexity O(n)
+#space complexity O(1)
